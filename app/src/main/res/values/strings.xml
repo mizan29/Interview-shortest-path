@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Path Finder</string>
+
+    <!--UI String -->
+    <string name="enter_graph">Please enter <i>2D Matrix</i> [Separate column with single space and Separate row using enter]</string>
+    <string name="find_path">Find Path</string>
+
+
+</resources>
